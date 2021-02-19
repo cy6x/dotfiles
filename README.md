@@ -13,9 +13,9 @@
 
 ### Tabs
 
-|      Hotkey     | Description |
-| ------------ | ----------- |
+| Hotkey       | Description     |
+| ------------ | --------------- |
 | `ctrl+alt+l` | `Next tab`      |
-| `ctrl+alt+h`    | `Prev tab`     |
-| `Ctrl+w`    | `Close tab`      |
-| `Ctrl+t`    | `Duplicate tab`      |
+| `ctrl+alt+h` | `Prev tab`      |
+| `Ctrl+w`     | `Close tab`     |
+| `Ctrl+t`     | `Duplicate tab` |
