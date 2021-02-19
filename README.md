@@ -17,4 +17,5 @@
 | ------------ | ----------- |
 | `ctrl+alt+l` | `Next tab`      |
 | `ctrl+alt+h`    | `Prev tab`     |
-| `Ctrl-f`    | `find`      |
+| `Ctrl+w`    | `Close tab`      |
+| `Ctrl+t`    | `Duplicate tab`      |
