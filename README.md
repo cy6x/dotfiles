@@ -14,7 +14,7 @@
 
 | Hotkey       | Description     |
 | ------------ | --------------- |
+| `Ctrl+t`     | `Duplicate tab` |
+| `Ctrl+w`     | `Close tab`     |
 | `Ctrl+Alt+l` | `Next tab`      |
 | `Ctrl+Alt+h` | `Prev tab`      |
-| `Ctrl+w`     | `Close tab`     |
-| `Ctrl+t`     | `Duplicate tab` |
