@@ -1,7 +1,7 @@
 ## `~/`
 
 ## Windows Terminal
-![Font: Terminus](http://url/to/img.png)
+![Font: Terminus](https://github.com/cy6x/dotfiles/raw/main/wt.png)
 ### General
 
 | Hotkey   | Description |
