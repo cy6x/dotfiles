@@ -1,14 +1,13 @@
 ## `~/`
 
 ## Windows Terminal
-### Bindings
-|  Key  | Desc |
-| ----- | ----------- |
-| `Ctrl-c`    | `copy`      |
-| `Ctrl-v`    | `paste`     |
-| `Ctrl-f`    | `find`      |
-| ----------- | ----------- |
-| `Ctrl-f`    | `find`      |
+### General
+
+| Hotkey   | Description |
+| -------- | ----------- |
+| `Ctrl+c` | `Copy`      |
+| `Ctrl+v` | `Paste`     |
+| `Ctrl+f` | `Find`      |
 
 ### Tabs
 
