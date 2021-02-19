@@ -1,5 +1,4 @@
 ## `~/`
-## Dotfiles
 
 ## Windows Terminal
 ### Bindings
