@@ -1,2 +1,2 @@
-# ~/
+## ~/
 Windows Terminal config file
