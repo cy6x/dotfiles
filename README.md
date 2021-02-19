@@ -1,6 +1,7 @@
 ## `~/`
 
 ## Windows Terminal
+![Font: Terminus](http://url/to/img.png)
 ### General
 
 | Hotkey   | Description |
