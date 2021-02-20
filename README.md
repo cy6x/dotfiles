@@ -2,6 +2,9 @@
 
 ## Windows Terminal
 ![Font: Terminus](https://github.com/cy6x/dotfiles/raw/main/wt.png)
+<p align="center">
+	Image Credits : <a href="https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2">Towardsdatascience</a>
+</p>
 ## Shortcuts
 ### Text
 
