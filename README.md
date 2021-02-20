@@ -13,11 +13,10 @@
 
 ### Panes
 
-| Shortcut    | Description |
-| ----------- |------------ |
-| `alt+Enter` | `Split (automatically)` |
-| `alt-h`     | `Focus on the window on the left`                            |
-| `alt-j`     | Focus down       |
+| Shortcut      | Description  |
+| ------------- |------------- |
+| `alt+Enter`   | `split`      |
+| `alt-h/j/k/l` | `focus left/down/up/right` |
 
 ### Tabs
 
