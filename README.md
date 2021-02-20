@@ -3,13 +3,21 @@
 ## Windows Terminal
 ![Font: Terminus](https://github.com/cy6x/dotfiles/raw/main/wt.png)
 ## Shortcuts
-### General
+### Text
 
 | Shortcut | Description  |
 | -------- | ------------ |
-| `ctrl+c` | `Copy text`  |
-| `ctrl+v` | `Paste text` |
-| `ctrl+f` | `Find text`      |
+| `ctrl+c` | `Copy`       |
+| `ctrl+v` | `Paste`      |
+| `ctrl+f` | `Find`       |
+
+### Panes
+
+| Shortcut    | Description |
+| ----------- |------------ |
+| `alt+Enter` | `Split (automatically)` |
+| `alt-h`     | `Focus on the window on the left`                            |
+| `alt-j`     | Focus down       |
 
 ### Tabs
 
@@ -19,11 +27,3 @@
 | `ctrl+w`     | `Close tab`     |
 | `ctrl+alt+l` | `Next tab`      |
 | `ctrl+alt+h` | `Prev tab`      |
-
-### Panes
-
-| Shortcut                  | Description                          |
-|---------------------------|--------------------------------------|
-| `Alt+Enter`               | Split auto                            |
-| `Alt-h`                   | Focus left                            |
-| `Alt-j`                   | Focus down                            |
