@@ -7,9 +7,9 @@
 
 | Shortcut | Description  |
 | -------- | ------------ |
-| `ctrl+c` | `Copy`       |
-| `ctrl+v` | `Paste`      |
-| `ctrl+f` | `Find`       |
+| `ctrl+c` | `copy`       |
+| `ctrl+v` | `paste`      |
+| `ctrl+f` | `find`       |
 
 ### Panes
 
