@@ -13,16 +13,16 @@
 
 ### Panes
 
-| Shortcut      | Description  |
-| ------------- |------------- |
-| `alt+Enter`   | `split`      |
-| `alt-h/j/k/l` | `focus left/down/up/right` |
+| Shortcut      | Description   |
+| ------------- |-------------- |
+| `alt+enter`   | `split`       |
+| `alt-h/j/k/l` | `focus <dir>` |
 
 ### Tabs
 
-| Hotkey       | Description     |
-| ------------ | --------------- |
-| `ctrl+t`     | `Duplicate tab` |
-| `ctrl+w`     | `Close tab`     |
-| `ctrl+alt+l` | `Next tab`      |
-| `ctrl+alt+h` | `Prev tab`      |
+| Shortcut     | Description |
+| ------------ |------------ |
+| `ctrl+w`     | `close`     |
+| `ctrl+t`     | `duplicate` |
+| `ctrl+alt+l` | `next`      |
+| `ctrl+alt+h` | `prev`      |
