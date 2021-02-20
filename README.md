@@ -21,9 +21,8 @@
 
 ### Panes
 
-| Hotkey       | Description     |
-| ------------ | --------------- |
-| `Alt+Enter`  | `Split auto` |
-| `Alt-h`     | `Focus left`     |
-| `Alt-j` | `Next tab`      |
-| `Alt-k` | `Prev tab`      |
+| Shortcut                  | Description                          |
+|---------------------------|--------------------------------------|
+| `Alt+Enter`               | Split auto                            |
+| `Alt-h`                   | Focus left                            |
+| `Alt-j`                   | Focus down                            |
