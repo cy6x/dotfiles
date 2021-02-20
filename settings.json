@@ -1,0 +1,95 @@
+{
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "defaultProfile": "{23af5f91-5a2d-5b49-ae61-7064454abb5b}",
+    "initialPosition": "472, 206",
+    "disabledProfileSources": ["Windows.Terminal.Azure"],
+    "tabSwitcherMode": false,
+    "largePasteWarning": false,
+    "multiLinePasteWarning": false,
+    "disableAnimations": true,
+    "confirmCloseAllTabs": false,
+
+    "profiles": {
+        "defaults": {
+            "colorScheme": "Solarized",
+            "fontFace": "Terminus",
+            "scrollbarState": "hidden",
+            "closeOnExit": "always",
+            "bellStyle": "none"
+        },
+
+        "list": [
+            {
+                "name": "PowerShell",
+                "commandline": "powershell.exe -nologo",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}"
+            },
+            {
+                "name": "Linux",
+                "startingDirectory":"//wsl$/Linux/home/cy6x",
+                "guid": "{23af5f91-5a2d-5b49-ae61-7064454abb5b}",
+                "source": "Windows.Terminal.Wsl"
+            },
+            {
+                "hidden": true,
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}"
+            }
+        ]
+    },
+
+    "schemes": [
+        {
+            "name": "Solarized",
+
+            "cursorColor" : "#93a1a1",
+            "selectionBackground": "#586e75",
+
+            "background": "#002b36",
+            "foreground": "#839496",
+
+            "black": "#073642",
+            "red": "#a54242",
+            "green": "#859900",
+            "yellow": "#b58900",
+            "blue": "#268bd2",
+            "purple": "#85678f",
+            "cyan": "#2aa198",
+            "white": "#eee8d5",
+
+            "brightBlack": "#002b36",
+            "brightRed": "#d75f00",
+            "brightGreen": "#586e75",
+            "brightYellow": "#657b83",
+            "brightBlue": "#839496",
+            "brightPurple": "#b294bb",
+            "brightCyan": "#93a1a1",
+            "brightWhite": "#fdf6e3"
+        }
+    ],
+
+    "actions": [
+        { "command": "copy", "keys": "ctrl+c" },
+        { "command": "paste", "keys": "ctrl+v" },
+        { "command": "find", "keys": "ctrl+f" },
+
+        { "command": "closeTab", "keys": "ctrl+w" },
+        { "command": "duplicateTab", "keys": "ctrl+t" },
+
+        { "command": "nextTab", "keys": "ctrl+alt+l" },
+        { "command": "prevTab", "keys": "ctrl+alt+h" },
+
+        { "command": { "action": "splitPane", "split": "auto" }, "keys": "alt+enter" },
+
+        { "command": { "action": "moveFocus", "direction": "left" }, "keys": "alt+h" },
+        { "command": { "action": "moveFocus", "direction": "down" }, "keys": "alt+j" },
+        { "command": { "action": "moveFocus", "direction": "up" }, "keys": "alt+k" },
+        { "command": { "action": "moveFocus", "direction": "right" }, "keys": "alt+l" },
+
+        { "command": { "action": "resizePane", "direction": "left" }, "keys": "alt+shift+h" },
+        { "command": { "action": "resizePane", "direction": "down" }, "keys": "alt+shift+j" },
+        { "command": { "action": "resizePane", "direction": "up" }, "keys": "alt+shift+k" },
+        { "command": { "action": "resizePane", "direction": "right" }, "keys": "alt+shift+l" },
+
+        { "command": "closePane", "keys": "alt+o" }
+    ]
+}
