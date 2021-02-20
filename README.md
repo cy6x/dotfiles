@@ -2,22 +2,23 @@
 
 ## Windows Terminal
 ![Font: Terminus](https://github.com/cy6x/dotfiles/raw/main/wt.png)
+## Shortcuts
 ### General
 
-| Hotkey   | Description |
-| -------- | ----------- |
-| `Ctrl+c` | `Copy`      |
-| `Ctrl+v` | `Paste`     |
-| `Ctrl+f` | `Find`      |
+| Shortcut | Description  |
+| -------- | ------------ |
+| `ctrl+c` | `Copy text`  |
+| `ctrl+v` | `Paste text` |
+| `ctrl+f` | `Find text`      |
 
 ### Tabs
 
 | Hotkey       | Description     |
 | ------------ | --------------- |
-| `Ctrl+t`     | `Duplicate tab` |
-| `Ctrl+w`     | `Close tab`     |
-| `Ctrl+Alt+l` | `Next tab`      |
-| `Ctrl+Alt+h` | `Prev tab`      |
+| `ctrl+t`     | `Duplicate tab` |
+| `ctrl+w`     | `Close tab`     |
+| `ctrl+alt+l` | `Next tab`      |
+| `ctrl+alt+h` | `Prev tab`      |
 
 ### Panes
 
