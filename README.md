@@ -15,8 +15,10 @@
 
 | Shortcut      | Description   |
 | ------------- |-------------- |
+| `alt+o`       | `close`       |
 | `alt+enter`   | `split`       |
-| `alt+h/j/k/l` | `focus <dir>` |
+| `alt+h/j/k/l` | `focus`       |
+| `alt+shift+h/j/k/l` | `resize`      |
 
 ### Tabs
 
