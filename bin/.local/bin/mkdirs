@@ -1,4 +1,4 @@
-#!/usr/bin/zsh
+#!/bin/bash
 
 profile=$(wslpath $(cmd.exe /c 'echo %USERPROFILE%' 2>&-) | tr -d '\r')
 
