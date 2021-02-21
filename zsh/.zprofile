@@ -1,5 +1,6 @@
 #!/bin/zsh
 
+export PATH="$PATH:$HOME/.local/bin"
 export ZDOTDIR="$HOME/.config/zsh"
 export ZSH_CACHE="$HOME/.cache/zsh"
 export LESSHISTFILE="-"
