@@ -1,0 +1,11 @@
+#!/usr/bin/zsh
+
+profile=$(wslpath $(cmd.exe /c 'echo %USERPROFILE%' 2>&-) | tr -d '\r')
+echo $profile
+
+ln -s $profile/Desktop ~/dt
+ln -s $profile/Documents ~/dox
+ln -s $profile/Downloads ~/dl
+ln -s $profile/Music ~/mix
+ln -s $profile/Pictures ~/pix
+ln -s $profile/Videos ~/vid
