@@ -39,29 +39,29 @@
 
     "schemes": [
         {
-            "name": "Solarized",
+            "name": "Solarized Dark",
 
-            "cursorColor" : "#93a1a1",
-            "selectionBackground": "#586e75",
+            "cursorColor": "#fdf6e3",
+            "selectionBackground": "#839496",
 
             "background": "#002b36",
             "foreground": "#839496",
 
             "black": "#073642",
-            "red": "#a54242",
+            "red": "#dc322f",
             "green": "#859900",
             "yellow": "#b58900",
             "blue": "#268bd2",
-            "purple": "#85678f",
+            "purple": "#d33682",
             "cyan": "#2aa198",
             "white": "#eee8d5",
 
-            "brightBlack": "#002b36",
-            "brightRed": "#d75f00",
+            "brightBlack": "#586e75",
+            "brightRed": "#cB4b16",
             "brightGreen": "#586e75",
-            "brightYellow": "#657b83",
+            "brightYellow": "#657B83",
             "brightBlue": "#839496",
-            "brightPurple": "#b294bb",
+            "brightPurple": "#6c71c4",
             "brightCyan": "#93a1a1",
             "brightWhite": "#fdf6e3"
         }
