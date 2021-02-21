@@ -11,7 +11,7 @@
 
     "profiles": {
         "defaults": {
-            "colorScheme": "Solarized",
+            "colorScheme": "Solarized Dark",
             "fontFace": "Terminus",
             "scrollbarState": "hidden",
             "closeOnExit": "always",
