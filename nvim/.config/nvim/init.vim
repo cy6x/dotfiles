@@ -1,6 +1,5 @@
 call plug#begin('~/.config/nvim/plug')
 
-Plug 'vimwiki/vimwiki'
 Plug 'itchyny/lightline.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/nerdcommenter'
@@ -10,10 +9,9 @@ Plug 'overcache/NeoSolarized'
 
 call plug#end()
 
-set fillchars+=vert:│      " Use full height bar char as vertical separator.
-syntax enable
+syntax on
 set termguicolors
-colors NeoSolarized
+colorscheme NeoSolarized
 let g:lightline = { 'colorscheme': 'solarized' }
 set cursorline
 
