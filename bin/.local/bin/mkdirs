@@ -1,6 +1,6 @@
 #!/bin/sh
 
-profile=$(wslpath $(cmd.exe /c 'echo %USERPROFILE%' 2>&-) | tr -d '\r')
+profile=$(wslpath $(cmd.exe /c '<nul set /p=%userprofile%' 2>&-))
 
 ln -s $profile/Desktop ~/dt
 ln -s $profile/Downloads ~/dl
