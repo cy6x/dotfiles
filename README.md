@@ -4,7 +4,6 @@
 - Distro    :  Void Linux
 - Shell     :  zsh
 - Terminal  :  Windows Terminal
-- Colors    :  Solarized
 - Font      :  Terminus
 - Editor    :  neovim
 ```
