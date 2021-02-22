@@ -8,7 +8,7 @@
 - Editor    :  neovim
 ```
 
-<h4 align="center"><code>Terminus font</code></h4>
+<h3 align="center"><code>Terminus font</code></h3>
 
 ```
 - Version   :  4.49.1
