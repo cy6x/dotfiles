@@ -1,5 +1,7 @@
 <h1 align="center"><code>~/</code></h1>
 
+### Info
+
 ```
 - Distro    :  Void Linux
 - Shell     :  zsh
