@@ -1,3 +1,10 @@
+### Terminal
+
+```
+- Colorscheme  :  Solarized
+- Shortcuts    :  Alt+Enter
+```
+
 ### Terminus
 
 ```
