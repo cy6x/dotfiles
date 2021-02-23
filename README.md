@@ -3,18 +3,15 @@
 ### Info
 
 ```
-[Linux]
-- Distro    :  Void Linux
-- Shell     :  zsh
-- Terminal  :  Windows Terminal
-- Font      :  Terminus
-- Editor    :  neovim
-
-[Windows]
-- Version   :  10
-- Browser   :  Google Chrome
-- Archives  :  7-Zip
-- Torrents  :  qBittorrent
+- Version     :  10
+- WSL Distro  :  Void Linux
+- Browser     :  Google Chrome
+- Shell       :  zsh
+- Terminal    :  Windows Terminal
+- Archiver    :  7-Zip
+- Torrents    :  qBittorrent
+- Font        :  Terminus
+- Editor      :  neovim
 ```
 
 <h1/>
