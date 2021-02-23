@@ -2,7 +2,7 @@
 
 ### Info
 
-`Windows`
+#### `Windows`
 
 ```
 - OS        :  Windows 10
@@ -11,7 +11,7 @@
 - Torrents  :  qBittorrent
 ```
 
-`Linux`
+#### `Linux`
 
 ```
 - Distro    :  Void Linux
