@@ -4,7 +4,7 @@
 
 ```
 [Windows]
-- OS        :  Windows 10
+- Version   :  10
 - Browser   :  Google Chrome
 - Archives  :  7-Zip
 - Torrents  :  qBittorrent
