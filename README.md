@@ -5,9 +5,9 @@
 `Windows`
 
 ```
-- OS    :  Windows 10
-- Archive : 7-Zip
-- Torrents: qBittorrent
+- OS        :  Windows 10
+- Archiver  :  7-Zip
+- Torrents  :  qBittorrent
 ```
 
 `Linux`
