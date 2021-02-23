@@ -1,8 +1,10 @@
 ### Terminal
 
 ```
-- Colorscheme  :  Solarized
-- Shortcuts    :  Alt+Enter
+- Colorscheme  :  Solarized Dark
+- Shortcuts    :  Close Tab      -  'Ctrl+C',
+                  Duplicate Tab  -  'Ctrl+T',
+                  Next Tab       -  'Ctrl+Alt+L'
 ```
 
 ### Terminus
