@@ -1,5 +1,3 @@
-### 
-
 ```
 - OS        :  Windows 10
 - Browser   :  Google Chrome
