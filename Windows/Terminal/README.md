@@ -5,8 +5,6 @@
 - Font    :  Terminus
 ```
 
-#### Solarized
-
 #### Terminus
 
 ```
