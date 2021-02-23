@@ -1,6 +1,6 @@
 <h1 align="center"><code>~/</code></h1>
 
-<h3 align="center"><code>Info</code></h3>
+<h3 align="center">Info</h3>
 
 
 <p align="center"><code>[Linux]</code></p>
