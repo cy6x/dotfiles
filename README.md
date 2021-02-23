@@ -3,7 +3,6 @@
 ### Info
 
 ```
-
 [Linux]
 - Distro    :  Void Linux
 - Shell     :  zsh
@@ -16,7 +15,6 @@
 - Browser   :  Google Chrome
 - Archives  :  7-Zip
 - Torrents  :  qBittorrent
-
 ```
 
 <h1/>
