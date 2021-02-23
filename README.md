@@ -22,9 +22,7 @@
 ### Google Chrome
 
 ```
-- Extensions  :  Runet Censorship Bypass
-                 AdBlock
-                 Vimium
+- Extensions  :  AdBlock, Vimium, Runet Censorship Bypass
 ```
 
 ### Terminus font
