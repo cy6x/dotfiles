@@ -3,11 +3,6 @@
 ### Info
 
 ```
-[Windows]
-- Version   :  10
-- Browser   :  Google Chrome
-- Archives  :  7-Zip
-- Torrents  :  qBittorrent
 
 [Linux]
 - Distro    :  Void Linux
@@ -15,6 +10,13 @@
 - Terminal  :  Windows Terminal
 - Font      :  Terminus
 - Editor    :  neovim
+
+[Windows]
+- Version   :  10
+- Browser   :  Google Chrome
+- Archives  :  7-Zip
+- Torrents  :  qBittorrent
+
 ```
 
 <h1/>
