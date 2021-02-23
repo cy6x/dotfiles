@@ -4,7 +4,7 @@
 - Colorscheme  :  Solarized Dark
 ```
 
-### Terminus
+#### Terminus font
 
 ```
 - Version  :  4.49.1
