@@ -6,7 +6,7 @@
 [Windows]
 - OS        :  Windows 10
 - Browser   :  Google Chrome
-- Archiver  :  7-Zip
+- Archives  :  7-Zip
 - Torrents  :  qBittorrent
 
 [Linux]
