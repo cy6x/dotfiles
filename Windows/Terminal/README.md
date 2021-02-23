@@ -1,7 +1,8 @@
 ### Terminal
 
 ```
-- Colorscheme  :  Solarized Dark
+- Colors  :  Solarized Dark
+- Font    :  Terminus
 ```
 
 #### Terminus font
