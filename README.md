@@ -19,6 +19,14 @@
 
 <h1/>
 
+### Google Chrome
+
+```
+- Extensions  :  Runet Censorship Bypass
+                 AdBlock
+                 Vimium
+```
+
 ### Terminus font
 
 ```
