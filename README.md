@@ -19,7 +19,7 @@
 
 <h1/>
 
-### Terminus font
+### Terminus
 
 ```
 - Version  :  4.49.1
