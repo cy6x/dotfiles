@@ -21,7 +21,9 @@
 
 ### Google Chrome
 
-`Extensions  :  AdBlock, Vimium, Runet Censorship Bypass`
+```
+Extensions  :  AdBlock, Vimium, Runet Censorship Bypass
+```
 
 <h1/>
 
