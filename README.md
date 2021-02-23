@@ -15,21 +15,13 @@
 - Browser   :  Google Chrome
 - Archives  :  7-Zip
 - Torrents  :  qBittorrent
-```
 
-<h1/>
+[Google Chrome]
+- Extensions  :  AdBlock, Vimium, Runet Censorship Bypass
 
-### Google Chrome
-
-```
-Extensions  :  AdBlock, Vimium, Runet Censorship Bypass
-```
-
-<h1/>
-
-### Terminus font
-
-```
+[Terminus font]
 - Version  :  4.49.1
 - Patches  :  ij1, td1
 ```
+
+<h1/>
