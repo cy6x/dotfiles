@@ -5,7 +5,7 @@
 - Font    :  Terminus
 ```
 
-#### Terminus font
+#### Terminus
 
 ```
 - Version  :  4.49.1
