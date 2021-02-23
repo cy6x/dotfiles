@@ -1,4 +1,0 @@
-```
-- Colors  :  Solarized
-- Font    :  Terminus
-```
