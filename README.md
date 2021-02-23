@@ -22,7 +22,7 @@
 ### Google Chrome
 
 ```
-Extensions:  AdBlock, Vimium, Runet Censorship Bypass
+Extensions  :  AdBlock, Vimium, Runet Censorship Bypass
 ```
 
 <h1/>
@@ -30,6 +30,6 @@ Extensions:  AdBlock, Vimium, Runet Censorship Bypass
 ### Terminus font
 
 ```
-- Version:  4.49.1
-- Patches:  ij1, td1
+- Version  :  4.49.1
+- Patches  :  ij1, td1
 ```
