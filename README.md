@@ -3,15 +3,15 @@
 ### Info
 
 ```
-- Version     :  10
+- OS          :  Windows 10
 - WSL Distro  :  Void Linux
-- Browser     :  Google Chrome
 - Shell       :  zsh
 - Terminal    :  Windows Terminal
-- Archiver    :  7-Zip
-- Torrents    :  qBittorrent
 - Font        :  Terminus
 - Editor      :  neovim
+- Browser     :  Google Chrome
+- Archiver    :  7-Zip
+- Torrents    :  qBittorrent
 ```
 
 <h1/>
