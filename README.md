@@ -1,7 +1,5 @@
 <h1 align="center"><code>~/</code></h1>
 
-`Windows & Linux dotfiles`
-
 ### Info
 
 `Windows`
