@@ -2,8 +2,8 @@
 
 ### Info
 
-```
-[Linux]
+
+<p align="center"><code>[Linux]</code></p>
 - Distro    :  Void Linux
 - Shell     :  zsh
 - Terminal  :  Windows Terminal
@@ -22,6 +22,6 @@
 [Terminus font]
 - Version  :  4.49.1
 - Patches  :  ij1, td1
-```
+
 
 <h1/>
