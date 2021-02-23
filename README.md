@@ -17,12 +17,10 @@
 - Torrents  :  qBittorrent
 ```
 
-<h1/>
-
 ### Google Chrome
 
 ```
-- Extensions  :  AdBlock, Vimium, Runet Censorship Bypass
+- `AdBlock`, `Vimium`, `Runet Censorship Bypass`
 ```
 
 ### Terminus font
