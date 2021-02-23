@@ -1,9 +1,11 @@
 ### Terminal
 
 ```
-- Colors  :  Solarized Dark
+- Colors  :  Solarized
 - Font    :  Terminus
 ```
+
+#### Solarized
 
 #### Terminus
 
