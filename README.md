@@ -1,9 +1,9 @@
 <h1 align="center"><code>~/</code></h1>
 
-<h3 align="center">Info</h3>
+### Info
 
-
-<p align="center"><code>[Linux]</code></p>
+```
+[Linux]
 - Distro    :  Void Linux
 - Shell     :  zsh
 - Terminal  :  Windows Terminal
@@ -15,13 +15,10 @@
 - Browser   :  Google Chrome
 - Archives  :  7-Zip
 - Torrents  :  qBittorrent
-
-[Google Chrome]
-- Extensions  :  AdBlock, Vimium, Runet Censorship Bypass
-
-[Terminus font]
-- Version  :  4.49.1
-- Patches  :  ij1, td1
-
+```
 
 <h1/>
+
+### Terminus font
+- Version  :  4.49.1
+- Patches  :  ij1, td1
