@@ -1,6 +1,18 @@
 <h1 align="center"><code>~/</code></h1>
 
+`Windows & Linux dotfiles`
+
 ### Info
+
+`Windows`
+
+```
+- OS    :  Windows 10
+- Archive : 7-Zip
+- Torrents: qBittorrent
+```
+
+`Linux`
 
 ```
 - Distro    :  Void Linux
