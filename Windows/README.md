@@ -3,5 +3,5 @@
 - Browser   :  Google Chrome
 - Terminal  :  Windows Terminal
 - Archiver  :  7-Zip
-- Torrents  :  qBittorrent
+- Torrents  :  qBittorrent</center>
 ```
