@@ -1,4 +1,4 @@
-<pre>Windows 10 & Void Linux (WSL)</pre>
+<pre align="center">Windows 10 & Void Linux (WSL)</pre>
 <pre>
 - Terminal  :  Windows Terminal
 - Browser   :  Google Chrome
