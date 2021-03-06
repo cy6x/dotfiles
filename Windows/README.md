@@ -30,11 +30,11 @@
 </table>
 
 ## Google Chrome
-### Info
+### Extensions
 
 <table>
   <tr>
-    <th>Extension</th>
+    <th>Name</th>
     <th>Description</th>
   </tr>
   <tr>
