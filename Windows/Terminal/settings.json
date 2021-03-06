@@ -11,7 +11,7 @@
 
     "profiles": {
         "defaults": {
-            "colorScheme": "Solarized Dark",
+            "colorScheme": "Solarized",
             "fontFace": "Terminus",
             "scrollbarState": "hidden",
             "closeOnExit": "always",
@@ -39,7 +39,7 @@
 
     "schemes": [
         {
-            "name": "Solarized Dark",
+            "name": "Solarized",
 
             "cursorColor": "#fdf6e3",
             "selectionBackground": "#839496",
@@ -61,9 +61,9 @@
             "brightGreen": "#586e75",
             "brightYellow": "#657b83",
             "brightBlue": "#839496",
-            "brightPurple": "#6c71c4",
+            "brightPurple": "#6c71c4"
             "brightCyan": "#93a1a1",
-            "brightWhite": "#fdf6e3"
+            "brightWhite": "#fdf6e3",
         }
     ],
 
