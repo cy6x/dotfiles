@@ -4,13 +4,32 @@
 
 ## Info
 
-| Description | Value |
-| --- | --- |
-| `OS` | `Windows 10` |
-| `Browser` | `Google Chrome` |
-| `Terminal` | `Windows Terminal` |
-| `Archiver` | `7-Zip` |
-| `Torrents` | `qBittorrent` |
+<table>
+  <tr>
+    <th>Description</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>OS</td>
+    <td>Windows 10</td>
+  </tr>
+  <tr>
+    <td><code>Browser</code></td>
+    <td><code>Google Chrome</code></td>
+  </tr>
+  <tr>
+    <td><code>Terminal</code></td>
+    <td><code>Windows Terminal</code></td>
+  </tr>
+  <tr>
+    <td><code>Archiver</code></td>
+    <td><code>7-Zip</code></td>
+  </tr>
+  <tr>
+    <td><code>Torrents</code></td>
+    <td><code>qBittorrent</code></td>
+  </tr>
+</table>
 
 ## Google Chrome
 ### Info
