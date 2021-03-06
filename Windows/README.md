@@ -2,7 +2,7 @@
 
 <pre align="center">Windows</pre>
 
-## <code>Info</code>
+## Info
 
 | Description | Value |
 | --- | --- |
