@@ -123,36 +123,36 @@
     <td><code>#eee8d5</code></td>
   </tr>
   <tr>
-    <td>Bright black</td>
-    <td>#586e75</td>
+    <td><code>Bright black</td>
+    <td><code>#586e75</td>
   </tr>
   <tr>
-    <td>Bright red</td>
-    <td>#cb4b16</td>
+    <td><code>Bright red</td>
+    <td><code>#cb4b16</td>
   </tr>
   <tr>
-    <td>Bright green</td>
-    <td>#586e75</td>
+    <td><code>Bright green</code></td>
+    <td><code>#586e75</code></td>
   </tr>
   <tr>
-    <td>Bright yellow</td>
-    <td>#657b83</td>
+    <td><code>Bright yellow</code></td>
+    <td><code>#657b83</code></td>
   </tr>
   <tr>
-    <td>Bright blue</td>
-    <td>#839496</td>
+    <td><code>Bright blue</code></td>
+    <td><code>#839496</code></td>
   </tr>
   <tr>
-    <td>Bright purple</td>
-    <td>#6c71c4</td>
+    <td><code>Bright purple</code></td>
+    <td><code>#6c71c4</code></td>
   </tr>
   <tr>
-    <td>Bright cyan</td>
-    <td>#93a1a1</td>
+    <td><code>Bright cyan</code></td>
+    <td><code>#93a1a1</code></td>
   </tr>
   <tr>
-    <td>Bright white</td>
-    <td>#fdf6e3</td>
+    <td><code>Bright white</code></td>
+    <td><code>#fdf6e3</code></td>
   </tr>
 </table>
 
