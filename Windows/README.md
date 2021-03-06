@@ -144,12 +144,10 @@
 </table>
 
 <h2>Google Chrome</h2>
-<h3>Extensions</h3>
 
 <table>
   <tr>
-    <th>Name</th>
-    <th>Description</th>
+    <td align=center colspan="2"><b>Extensions</b></td>
   </tr>
   <tr></tr>
   <tr>
