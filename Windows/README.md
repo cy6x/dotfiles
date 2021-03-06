@@ -1,11 +1,8 @@
 <pre align="center">Windows</pre>
 
-<h2>Info</h2>
-
 <table>
   <tr>
-    <th>Description</th>
-    <th>Value</th>
+    <td align=center colspan="2"><b>Info</b></td>
   </tr>
   <tr></tr>
   <tr>
