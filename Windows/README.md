@@ -148,22 +148,3 @@
     <td><code>Vim bindings</code></td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><code>AdBlock</code></td>
-    <td><code>Blocks ads</code></td>
-  </tr>
-  <tr>
-    <td><code>Antizapret</code></td>
-    <td><code>Bypasses RKN</code></td>
-  </tr>
-  <tr>
-    <td><code>Vimium</code></td>
-    <td><code>Vim bindings</code></td>
-  </tr>
-</table>
