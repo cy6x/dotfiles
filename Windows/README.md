@@ -1,4 +1,4 @@
-<h1>Windows</h1>
+<h2>System</h2>
 
 <table>
   <tr>
