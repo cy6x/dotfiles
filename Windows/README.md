@@ -83,10 +83,6 @@
     <td><code>#839496</code></td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
     <td><code>Background</code></td>
     <td><code>#002b36</code></td>
   </tr>
@@ -125,10 +121,6 @@
   <tr>
     <td><code>White</code></td>
     <td><code>#eee8d5</code></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>Bright black</td>
