@@ -1,20 +1,55 @@
-<pre align="center">Windows 10 & Void Linux (WSL)</pre>
+<pre align="center">Windows</pre>
 
-#
+## Info
 
-<br>
+| Description | Value |
+| --- | --- |
+| `OS` | `Windows 10` |
+| `Browser` | `Google Chrome` |
+| `Terminal` | `Windows Terminal` |
+| `Archiver` | `7-Zip` |
+| `Torrents` | `qBittorrent` |
 
-!["Screenshot"](https://raw.githubusercontent.com/cy6x/dotfiles/main/scrot.png)
+## Google Chrome
+### Info
 
-#
+| Extension | Description |
+| --- | --- |
+| `AdBlock` | `Blocks ads` |
+| `Antizapret` | `Bypasses RKN` |
+| `Vimium` | `Vim bindings` |
 
-<br>
+## Windows Terminal
+### Info
 
-```
-- Browser   :  Google Chrome
-- Terminal  :  Windows Terminal
-- Shell     :  zsh
-- Editor    :  neovim
-- Archiver  :  7-Zip
-- Torrents  :  qBittorrent
-```
+| Description | Value |
+| --- | --- |
+| `Font` | `Terminus` |
+| `Colors` | `Solarized` |
+
+### Shortcuts
+#### General
+
+| Description | Hotkey |
+| --- | --- |
+| `Copy` | `Ctrl+c` |
+| `Paste` | `Ctrl+v` |
+| `Find` | `Ctrl+f` |
+
+#### Tabs
+
+| Description | Hotkey |
+| --- | --- |
+| `Close` | `Ctrl+w` |
+| `Duplicate` | `Ctrl+t` |
+| `Next` | `Ctrl+Alt+l` |
+| `Previous` | `Ctrl+Alt+h` |
+
+#### Panes
+
+| Description | Hotkey |
+| --- | --- |
+| `Split` | `Alt+Enter` |
+| `Close` | `Alt+o` |
+| `Focus` | `Alt+<dir>` |
+| `Resize` | `Alt+Shift+<dir>` |
