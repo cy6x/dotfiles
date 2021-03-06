@@ -136,14 +136,14 @@
   <tr>
     <td><code>Cyan</code></td>
     <td><code>#2aa198</code></td>
-    <td><code>Bright cyan</code></td>
+    <td><code>Bright Cyan</code></td>
     <td><code>#93a1a1</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>White</code></td>
     <td><code>#eee8d5</code></td>
-    <td><code>Bright white</code></td>
+    <td><code>Bright White</code></td>
     <td><code>#fdf6e3</code></td>
   </tr>
 </table>
