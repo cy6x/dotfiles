@@ -78,9 +78,6 @@
   <tr>
     <td><code>Cursor</code></td>
     <td><code>#f03c15</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
     <td><code>Selection background</code></td>
     <td><code>#839496</code></td>
   </tr>
@@ -88,9 +85,6 @@
   <tr>
     <td><code>Background</code></td>
     <td><code>#002b36</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
     <td><code>Foreground</code></td>
     <td><code>#839496</code></td>
   </tr>
