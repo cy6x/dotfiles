@@ -10,8 +10,8 @@
     <th>Value</th>
   </tr>
   <tr>
-    <td>OS</td>
-    <td>Windows 10</td>
+    <td><code>OS</code></td>
+    <td><code>Windows 10</code></td>
   </tr>
   <tr>
     <td><code>Browser</code></td>
