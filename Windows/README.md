@@ -73,6 +73,8 @@
   <tr>
     <th>Color</th>
     <th>Hex</th>
+    <th>Color</th>
+    <th>Hex</th>
   </tr>
   <tr></tr>
   <tr>
@@ -92,79 +94,55 @@
   <tr>
     <td><code>Black</code></td>
     <td><code>#073642</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Red</code></td>
-    <td><code>#dc322f</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Green</code></td>
-    <td><code>#859900</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Yellow</code></td>
-    <td><code>#b58900</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Blue</code></td>
-    <td><code>#268bd2</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Purple</code></td>
-    <td><code>#d33682</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Cyan</code></td>
-    <td><code>#2aa198</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>White</code></td>
-    <td><code>#eee8d5</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
     <td><code>Bright black</td>
     <td><code>#586e75</td>
   </tr>
   <tr></tr>
   <tr>
+    <td><code>Red</code></td>
+    <td><code>#dc322f</code></td>
     <td><code>Bright red</td>
     <td><code>#cb4b16</td>
   </tr>
   <tr></tr>
   <tr>
+    <td><code>Green</code></td>
+    <td><code>#859900</code></td>
     <td><code>Bright green</code></td>
     <td><code>#586e75</code></td>
   </tr>
   <tr></tr>
   <tr>
+    <td><code>Yellow</code></td>
+    <td><code>#b58900</code></td>
     <td><code>Bright yellow</code></td>
     <td><code>#657b83</code></td>
   </tr>
   <tr></tr>
   <tr>
+    <td><code>Blue</code></td>
+    <td><code>#268bd2</code></td>
     <td><code>Bright blue</code></td>
     <td><code>#839496</code></td>
   </tr>
   <tr></tr>
   <tr>
+    <td><code>Purple</code></td>
+    <td><code>#d33682</code></td>
     <td><code>Bright purple</code></td>
     <td><code>#6c71c4</code></td>
   </tr>
   <tr></tr>
   <tr>
+    <td><code>Cyan</code></td>
+    <td><code>#2aa198</code></td>
     <td><code>Bright cyan</code></td>
     <td><code>#93a1a1</code></td>
   </tr>
   <tr></tr>
   <tr>
+    <td><code>White</code></td>
+    <td><code>#eee8d5</code></td>
     <td><code>Bright white</code></td>
     <td><code>#fdf6e3</code></td>
   </tr>
