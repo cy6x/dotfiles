@@ -35,11 +35,7 @@
 | `Copy` | `Ctrl+c` |
 | `Paste` | `Ctrl+v` |
 | `Find` | `Ctrl+f` |
-
-#### Tabs
-
-| Description | Hotkey |
-| --- | --- |
+| `Panes` | |
 | `Close` | `Ctrl+w` |
 | `Duplicate` | `Ctrl+t` |
 | `Next` | `Ctrl+Alt+l` |
