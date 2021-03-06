@@ -80,7 +80,7 @@
   <tr>
     <td><code>Cursor</code></td>
     <td><code>#f03c15</code></td>
-    <td><code>Selection background</code></td>
+    <td><code>Selection</code></td>
     <td><code>#839496</code></td>
   </tr>
   <tr></tr>
