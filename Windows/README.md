@@ -143,7 +143,7 @@
   </tr>
 </table>
 
-<h2>Terminus font</h2>
+<h2>Google Chrome</h2>
 <h3>Extensions</h3>
 
 <table>
