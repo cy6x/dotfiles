@@ -24,10 +24,20 @@
 ## Windows Terminal
 ### Info
 
-| Description | Value |
-| --- | --- |
-| `Font` | `Terminus` |
-| `Colors` | `Solarized` |
+<table>
+  <tr>
+    <td><b>Description</b></td>
+    <td><b>Value</b></td>
+  </tr>
+  <tr>
+    <td><code>Font</code></td>
+    <td><code>Terminus</code></td>
+  </tr>
+  <tr>
+    <td><code>Colors</code></td>
+    <td><code>Solarized</code></td>
+  </tr>
+</table>
 
 ### Shortcuts
 
