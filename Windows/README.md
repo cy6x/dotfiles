@@ -111,12 +111,12 @@
     <td align=center colspan="2"><b>Tabs</b></td>
   </tr>
   <tr>
-    <td><code>Close</code></td>
-    <td><code>Ctrl+w</code></td>
-  </tr>
-  <tr>
     <td><code>Duplicate</code></td>
     <td><code>Ctrl+t</code></td>
+  </tr>
+  <tr>
+    <td><code>Close</code></td>
+    <td><code>Ctrl+w</code></td>
   </tr>
   <tr>
     <td><code>Next</code></td>
