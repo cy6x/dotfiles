@@ -29,28 +29,6 @@
   </tr>
 </table>
 
-## Google Chrome
-### Extensions
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><code>AdBlock</code></td>
-    <td><code>Blocks ads</code></td>
-  </tr>
-  <tr>
-    <td><code>Antizapret</code></td>
-    <td><code>Bypasses RKN</code></td>
-  </tr>
-  <tr>
-    <td><code>Vimium</code></td>
-    <td><code>Vim bindings</code></td>
-  </tr>
-</table>
-
 ## Windows Terminal
 ### Info
 
@@ -125,5 +103,27 @@
   <tr>
     <td><code>Previous</code></td>
     <td><code>Ctrl+Alt+h</code></td>
+  </tr>
+</table>
+
+## Google Chrome
+### Extensions
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><code>AdBlock</code></td>
+    <td><code>Blocks ads</code></td>
+  </tr>
+  <tr>
+    <td><code>Antizapret</code></td>
+    <td><code>Bypasses RKN</code></td>
+  </tr>
+  <tr>
+    <td><code>Vimium</code></td>
+    <td><code>Vim bindings</code></td>
   </tr>
 </table>
