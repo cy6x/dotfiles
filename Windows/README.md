@@ -2,7 +2,6 @@
   <tr>
     <td align=center colspan="2"><b>General</b></td>
   </tr>
-
   <tr>
     <td><code>Copy</code></td>
     <td><code>Ctrl+c</code></td>
@@ -15,11 +14,10 @@
     <td><code>Find</code></td>
     <td><code>Ctrl+f</code></td>
   </tr>
-
   <tr>
     <td align=center colspan="2"><b>Tabs</b></td>
+  </tr>
   <tr>
-  
     <td><code>Close</code></td>
     <td><code>Ctrl+w</code></td>
   </tr>
@@ -35,11 +33,9 @@
     <td><code>Previous</code></td>
     <td><code>Ctrl+Alt+h</code></td>
   </tr>
-
   <tr>
     <td align=center colspan="2"><b>Panes</b></td>
   </tr>
-
   <tr>
     <td><code>Split</code></td>
     <td><code>Alt+Enter</code></td>
