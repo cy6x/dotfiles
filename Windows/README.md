@@ -34,11 +34,24 @@
 ## Google Chrome
 ### Info
 
-| Extension | Description |
-| --- | --- |
-| `AdBlock` | `Blocks ads` |
-| `Antizapret` | `Bypasses RKN` |
-| `Vimium` | `Vim bindings` |
+<table>
+  <tr>
+    <th>Extension</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><code>AdBlock</code></td>
+    <td><code>Blocks ads</code></td>
+  </tr>
+  <tr>
+    <td><code>Antizapret</code></td>
+    <td><code>Bypasses RKN</code></td>
+  </tr>
+  <tr>
+    <td><code>Vimium</code></td>
+    <td><code>Vim bindings</code></td>
+  </tr>
+</table>
 
 ## Windows Terminal
 ### Info
