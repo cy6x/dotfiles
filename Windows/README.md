@@ -1,4 +1,4 @@
-<h2>Windows</h2>
+<h1>Windows</h1>
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<h3>Windows Terminal</h3>
+<h2>Windows Terminal</h2>
 
 <table>
   <tr>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<h4>Shortcuts</h4>
+<h3>Shortcuts</h3>
 
 <table>
   <tr>
