@@ -88,6 +88,25 @@
     <td><code>Ctrl+f</code></td>
   </tr>
   <tr>
+    <td align=center colspan="2"><b>Panes</b></td>
+  </tr>
+  <tr>
+    <td><code>Split</code></td>
+    <td><code>Alt+Enter</code></td>
+  </tr>
+  <tr>
+    <td><code>Close</code></td>
+    <td><code>Alt+o</code></td>
+  </tr>
+  <tr>
+    <td><code>Focus</code></td>
+    <td><code>Alt+&lt;dir&gt;</code></td>
+  </tr>
+  <tr>
+    <td><code>Resize</code></td>
+    <td><code>Alt+Shift+&lt;dir&gt;</code></td>
+  </tr>
+  <tr>
     <td align=center colspan="2"><b>Tabs</b></td>
   </tr>
   <tr>
@@ -107,23 +126,4 @@
     <td><code>Ctrl+Alt+h</code></td>
   </tr>
   <tr></tr>
-  <tr>
-    <td align=center colspan="2"><b>Panes</b></td>
-  </tr>
-  <tr>
-    <td><code>Split</code></td>
-    <td><code>Alt+Enter</code></td>
-  </tr>
-  <tr>
-    <td><code>Close</code></td>
-    <td><code>Alt+o</code></td>
-  </tr>
-  <tr>
-    <td><code>Focus</code></td>
-    <td><code>Alt+&lt;dir&gt;</code></td>
-  </tr>
-  <tr>
-    <td><code>Resize</code></td>
-    <td><code>Alt+Shift+&lt;dir&gt;</code></td>
-  </tr>
 </table>
