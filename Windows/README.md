@@ -53,10 +53,6 @@
     <td><code>Alt+Shift+&lt;dir&gt;</code></td>
   </tr>
 </table>
-Split	Alt+Enter
-Close	Alt+o
-Focus	Alt+<dir>
-Resize	Alt+Shift+<dir>
 
 <pre align="center">Windows</pre>
 
