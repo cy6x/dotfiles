@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<h3>Shortcuts</h3>
+<h4>Shortcuts</h4>
 
 <table>
   <tr>
