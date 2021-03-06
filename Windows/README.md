@@ -1,6 +1,6 @@
 <pre align="center">Windows</pre>
 
-## Info
+<h2>Info</h2>
 
 <table>
   <tr>
@@ -34,8 +34,8 @@
   </tr>
 </table>
 
-## Windows Terminal
-### Info
+<h2>Windows Terminal</h2>
+<h3>Info</h3>
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-### Shortcuts
+<h3>Shortcuts</h3>
 
 <table>
   <tr>
@@ -125,7 +125,7 @@
   </tr>
 </table>
 
-### Terminus font
+<h3>Terminus font</h3>
 
 <table>
   <tr>
@@ -143,8 +143,8 @@
   </tr>
 </table>
 
-## Google Chrome
-### Extensions
+<h2>Terminus font</h2>
+<h3>Extensions</h3>
 
 <table>
   <tr>
