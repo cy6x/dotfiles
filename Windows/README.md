@@ -106,6 +106,24 @@
   </tr>
 </table>
 
+### Terminus font
+
+<table>
+  <tr>
+    <td align=center colspan="2"><b>Info</b></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Version</code></td>
+    <td><code>4.49.1</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Patches</code></td>
+    <td><code>ij1, td1</code></td>
+  </tr>
+</table>
+
 ## Google Chrome
 ### Extensions
 
