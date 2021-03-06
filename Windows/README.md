@@ -1,3 +1,40 @@
+<table>
+  <tr>
+    <td align=center colspan="2">
+      <b>General</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Copy</code>
+    </td>
+    <td>
+      <code>Ctrl+c</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Paste</code>
+    </td>
+    <td>
+      <code>Ctrl+v</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Find</code>
+    </td>
+    <td>
+      <code>Ctrl+f</code>
+    </td>
+  </tr>
+  <tr>
+    <td align=center colspan="2">
+      <b>Panes</b>
+    </td>
+  </tr>
+</table>
+
 <pre align="center">Windows</pre>
 
 ## Info
@@ -35,7 +72,7 @@
 | `Copy` | `Ctrl+c` |
 | `Paste` | `Ctrl+v` |
 | `Find` | `Ctrl+f` |
-| `Panes` | |
+| **Panes** | |
 | `Close` | `Ctrl+w` |
 | `Duplicate` | `Ctrl+t` |
 | `Next` | `Ctrl+Alt+l` |
