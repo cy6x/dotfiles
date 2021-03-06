@@ -1,4 +1,4 @@
-<pre align="center">Windows</pre>
+<h2>Windows</h2>
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<h2>Windows Terminal</h2>
+<h3>Windows Terminal</h3>
 
 <table>
   <tr>
