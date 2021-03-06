@@ -156,17 +156,17 @@
   </tr>
   <tr></tr>
   <tr>
-    <td colspan="2"><code>Copy</code></td>
+    <td colspan="2"><code>Copy text</code></td>
     <td colspan="2"><code>Ctrl+c</code></td>
   </tr>
   <tr></tr>
   <tr>
-    <td colspan="2"><code>Paste</code></td>
+    <td colspan="2"><code>Paste text</code></td>
     <td colspan="2"><code>Ctrl+v</code></td>
   </tr>
   <tr></tr>
   <tr>
-    <td colspan="2"><code>Find</code></td>
+    <td colspan="2"><code>Find text</code></td>
     <td colspan="2"><code>Ctrl+f</code></td>
   </tr>
   <tr></tr>
