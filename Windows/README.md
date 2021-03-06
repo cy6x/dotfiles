@@ -35,12 +35,10 @@
 </table>
 
 <h2>Windows Terminal</h2>
-<h3>Info</h3>
 
 <table>
   <tr>
-    <td><b>Description</b></td>
-    <td><b>Value</b></td>
+    <td align=center colspan="2"><b>Info</b></td>
   </tr>
   <tr></tr>
   <tr>
