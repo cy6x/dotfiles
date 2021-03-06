@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-<h3>Solarized</h3>
+<h3>Solarized colors</h3>
 
 <table>
   <tr>
