@@ -7,22 +7,27 @@
     <th>Description</th>
     <th>Value</th>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>OS</code></td>
     <td><code>Windows 10</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Browser</code></td>
     <td><code>Google Chrome</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Terminal</code></td>
     <td><code>Windows Terminal</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Archiver</code></td>
     <td><code>7-Zip</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Torrents</code></td>
     <td><code>qBittorrent</code></td>
