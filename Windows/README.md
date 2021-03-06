@@ -30,7 +30,70 @@
   </tr>
   <tr>
     <td align=center colspan="2">
-      <b>Panes</b>
+      <b>Tabs</b>
+    </td>
+  <tr>
+    <td>
+      <code>Close</code>
+    </td>
+    <td>
+      <code>Ctrl+w</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Duplicate</code>
+    </td>
+    <td>
+      <code>Ctrl+t</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Next</code>
+    </td>
+    <td>
+      <code>Ctrl+Alt+l</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Previos</code>
+    </td>
+    <td>
+      <code>Ctrl+Alt+h</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Split</code>
+    </td>
+    <td>
+      <code>Alt+Enter</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Close</code>
+    </td>
+    <td>
+      <code>Alt+o</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Focus</code>
+    </td>
+    <td>
+      <code>Alt+<dir></code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>Resize</code>
+    </td>
+    <td>
+      <code>Alt+Shift+<dir></code>
     </td>
   </tr>
 </table>
