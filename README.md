@@ -1,4 +1,4 @@
-<h2>Install</h2>
+<h2>Installation</h2>
 
 <h3>Windows</h3>
 <h6>PowerShell</h6>
