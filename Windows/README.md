@@ -227,11 +227,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Hide sidebar</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Hide status bar</code></td>
+    <td><code>Hide sidebar, status bar</code></td>
   </tr>
   <tr></tr>
   <tr>
@@ -247,11 +243,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Don't confirm torrent deletion</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Don't confirm exit</code></td>
+    <td><code>Don't confirm torrent deletion, exit</code></td>
   </tr>
 </table>
 
