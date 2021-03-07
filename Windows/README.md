@@ -243,7 +243,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Don't confirm torrent deletion, exit</code></td>
+    <td><code>!Confirm torrent deletion, exit</code></td>
   </tr>
 </table>
 
