@@ -220,7 +220,14 @@
 </table>
 
 <h2>qBittorrent</h2>
-<table>
+
+<code>Hide sidebar</code>
+<code>Hide status bar</code>
+<code>Delete torrent file after adding</code>
+<code>Disable file logger</code>
+<code>Accept legal notice</code>
+<code>Don't confirm torrent deletion</code>
+<code>Don't confirm exit</code>
 
 <h2>Google Chrome</h2>
 
