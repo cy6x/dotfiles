@@ -1,1 +1,1 @@
-Coming soon!
+echo "Coming soon!"
