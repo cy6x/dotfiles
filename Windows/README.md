@@ -218,7 +218,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td align=center colspan="2"><b>Panes</b></td>
+    <td align="center" colspan="2"><b>Panes</b></td>
   </tr>
   <tr></tr>
   <tr>
@@ -241,13 +241,12 @@
     <td><code>Alt+Shift+&lt;dir&gt;</code></td>
   </tr>
 </table>
-<center>
 
 <h2>qBittorrent</h2>
 
-<table align=center>
+<table>
   <tr>
-    <td align=center colspan="2"><b>Options</b></td>
+    <td align="center" colspan="2"><b>Options</b></td>
   </tr>
   <tr></tr>
   <tr>
