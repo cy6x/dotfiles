@@ -6,7 +6,6 @@
 <code>See <a href="https://github.com/cy6x/dotfiles/blob/main/Windows/README.md">README.md</a> for details</code>
 
 <h3>Linux</h3>
-<h3><a href="https://github.com/cy6x/dotfiles/blob/main/Linux/README.md">Linux</a></h3>
 <h6>Bash</h6>
 <pre>$ bash <(curl -s 'https://git.io/Jqk9G')</pre>
 <code>See <a href="https://github.com/cy6x/dotfiles/blob/main/Linux/README.md">README.md</a> for details</code>
