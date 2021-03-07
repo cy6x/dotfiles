@@ -235,19 +235,23 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Disable file logger</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Accept legal notice</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
     <td><code>Don't confirm deletion, exit</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Disable torrent queueing</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Disable alternating row colors</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Disable file logger</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Accept legal notice</code></td>
   </tr>
 </table>
 
