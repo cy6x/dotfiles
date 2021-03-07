@@ -227,19 +227,11 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Hide sidebar, status bar</code></td>
+    <td><code>Accept legal notice</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Delete file after adding</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Don't confirm deletion, exit</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Disable torrent queueing</code></td>
   </tr>
   <tr></tr>
   <tr>
@@ -251,7 +243,15 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Accept legal notice</code></td>
+    <td><code>Disable torrent queueing</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Don't confirm deletion, exit</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Hide sidebar, status bar</code></td>
   </tr>
 </table>
 
