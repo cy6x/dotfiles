@@ -221,12 +221,12 @@
 
 <h2>qBittorrent</h2>
 
-<code>Hide sidebar</code>
-<code>Hide status bar</code>
-<code>Delete torrent file after adding</code>
-<code>Disable file logger</code>
-<code>Accept legal notice</code>
-<code>Don't confirm torrent deletion</code>
+<code>Hide sidebar</code><br/>
+<code>Hide status bar</code><br/>
+<code>Delete torrent file after adding</code><br/>
+<code>Disable file logger</code><br/>
+<code>Accept legal notice</code><br/>
+<code>Don't confirm torrent deletion</code><br/>
 <code>Don't confirm exit</code>
 
 <h2>Google Chrome</h2>
