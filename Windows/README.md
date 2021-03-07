@@ -221,7 +221,7 @@
 
 <h2>qBittorrent</h2>
 
-<code>Options:</code>
+<code>Set:</code><br/>
 <code>- Hide sidebar</code><br/>
 <code>- Hide status bar</code><br/>
 <code>- Delete torrent file after adding</code><br/>
@@ -229,6 +229,24 @@
 <code>- Accept legal notice</code><br/>
 <code>- Don't confirm torrent deletion</code><br/>
 <code>- Don't confirm exit</code>
+
+<table>
+  <tr>
+    <td align=center colspan="2"><b>Options</b></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code><code>Hide sidebar</code></code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Hide status bar</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Delete torrent file after adding</code></td>
+  </tr>
+</table>
 
 <h2>Google Chrome</h2>
 
