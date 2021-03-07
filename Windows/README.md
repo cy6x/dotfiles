@@ -251,6 +251,10 @@
   </tr>
   <tr></tr>
   <tr>
+    <td><code>Don't show close to tray notification</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
     <td><code>Hide sidebar, status bar</code></td>
   </tr>
 </table>
