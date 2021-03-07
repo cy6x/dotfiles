@@ -6,4 +6,4 @@
 
 <h3>Linux</h3>
 <h6>Bash</h6>
-<pre lang="bash">bash <(curl -s https://git.io/xxxxxx)</pre>
+<pre lang="bash">bash <(curl -s https://git.io/Jqk9G)</pre>
