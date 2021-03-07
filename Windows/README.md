@@ -231,7 +231,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Delete file after adding</code></td>
+    <td><code>Delete .torrent after adding</code></td>
   </tr>
   <tr></tr>
   <tr>
@@ -255,7 +255,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Hide sidebar, status bar</code></td>
+    <td><code>Hide sidebar & status bar</code></td>
   </tr>
 </table>
 
