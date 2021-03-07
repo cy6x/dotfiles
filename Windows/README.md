@@ -1,6 +1,6 @@
 <h2>Install</h2>
 
-<pre>iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jqk6z'))</pre>
+<pre lang="powershell">iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jqk6z'))</pre>
 
 <h2>System</h2>
 
