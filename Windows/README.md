@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td align=center colspan="2"><b>Info</b></td>
+    <td align="center" colspan="2"><b>Info</b></td>
   </tr>
   <tr></tr>
   <tr>
@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td align=center colspan="2"><b>Extensions</b></td>
+    <td align="center" colspan="2"><b>Extensions</b></td>
   </tr>
   <tr></tr>
   <tr>
@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-    <td align=center colspan="2"><b>Info</b></td>
+    <td align="center" colspan="2"><b>Info</b></td>
   </tr>
   <tr></tr>
   <tr>
@@ -76,7 +76,7 @@
 
 <table>
   <tr>
-    <td align=center colspan="2"><b>Info</b></td>
+    <td align="center" colspan="2"><b>Info</b></td>
   </tr>
   <tr></tr>
   <tr>
@@ -175,7 +175,7 @@
 
 <table>
   <tr>
-    <td align=center colspan="2"><b>Text</b></td>
+    <td align="center" colspan="2"><b>Text</b></td>
   </tr>
   <tr></tr>
   <tr>
@@ -194,7 +194,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td align=center colspan="2"><b>Tabs</b></td>
+    <td align="center" colspan="2"><b>Tabs</b></td>
   </tr>
   <tr></tr>
   <tr>
@@ -241,10 +241,11 @@
     <td><code>Alt+Shift+&lt;dir&gt;</code></td>
   </tr>
 </table>
+<center>
 
 <h2>qBittorrent</h2>
 
-<table>
+<table align=center>
   <tr>
     <td align=center colspan="2"><b>Options</b></td>
   </tr>
