@@ -231,7 +231,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Delete .torrent after adding</code></td>
+    <td><code>Delete file after adding</code></td>
   </tr>
   <tr></tr>
   <tr>
@@ -243,7 +243,11 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>!Confirm torrent deletion, exit</code></td>
+    <td><code>Don't confirm deletion, exit</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Disable torrent queueing</code></td>
   </tr>
 </table>
 
