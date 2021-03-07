@@ -3,5 +3,5 @@
 <h3>Windows</h3>
 <pre lang="powershell">iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jqk6z'))</pre>
 
-<h3>Windows</h3>
-<pre lang="powershell">Soon!</pre>
+<h3>Linux</h3>
+<pre>Coming soon!</pre>
