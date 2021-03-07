@@ -219,6 +219,9 @@
   </tr>
 </table>
 
+<h2>qBittorrent</h2>
+<table>
+
 <h2>Google Chrome</h2>
 
 <table>
