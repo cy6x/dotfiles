@@ -31,6 +31,29 @@
   </tr>
 </table>
 
+<h2>Google Chrome</h2>
+
+<table>
+  <tr>
+    <td align=center colspan="2"><b>Extensions</b></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>AdBlock</code></td>
+    <td><code>Blocks ads</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Antizapret</code></td>
+    <td><code>Bypasses RKN</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Vimium</code></td>
+    <td><code>Vim bindings</code></td>
+  </tr>
+</table>
+
 <h2>Windows Terminal</h2>
 
 <table>
@@ -256,28 +279,5 @@
   <tr></tr>
   <tr>
     <td><code>Hide sidebar & status bar</code></td>
-  </tr>
-</table>
-
-<h2>Google Chrome</h2>
-
-<table>
-  <tr>
-    <td align=center colspan="2"><b>Extensions</b></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>AdBlock</code></td>
-    <td><code>Blocks ads</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Antizapret</code></td>
-    <td><code>Bypasses RKN</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Vimium</code></td>
-    <td><code>Vim bindings</code></td>
   </tr>
 </table>
