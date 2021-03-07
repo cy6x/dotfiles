@@ -280,4 +280,8 @@
   <tr>
     <td><code>Hide sidebar & status bar</code></td>
   </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Set disk cache to 64Mb</code></td>
+  </tr>
 </table>
