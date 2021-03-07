@@ -221,15 +221,6 @@
 
 <h2>qBittorrent</h2>
 
-<code>Set:</code><br/>
-<code>- Hide sidebar</code><br/>
-<code>- Hide status bar</code><br/>
-<code>- Delete torrent file after adding</code><br/>
-<code>- Disable file logger</code><br/>
-<code>- Accept legal notice</code><br/>
-<code>- Don't confirm torrent deletion</code><br/>
-<code>- Don't confirm exit</code>
-
 <table>
   <tr>
     <td align=center colspan="2"><b>Options</b></td>
@@ -244,7 +235,19 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Delete torrent file after adding</code></td>
+    <td><code>Delete .torrent after adding</code></td>
+  </tr>
+  <tr>
+    <td><code>Disable file logger</code></td>
+  </tr>
+  <tr>
+    <td><code>Accept legal notice</code></td>
+  </tr>
+  <tr>
+    <td><code>Don't confirm torrent deletion</code></td>
+  </tr>
+  <tr>
+    <td><code>Don't confirm exit</code></td>
   </tr>
 </table>
 
