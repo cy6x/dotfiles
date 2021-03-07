@@ -1,5 +1,3 @@
-<pre align="center">Dotfiles</pre>
-
 <h2>Install</h2>
 
 <h3>Windows</h3>
