@@ -227,7 +227,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code><code>Hide sidebar</code></code></td>
+    <td><code>Hide sidebar</code></td>
   </tr>
   <tr></tr>
   <tr>
@@ -237,15 +237,19 @@
   <tr>
     <td><code>Delete .torrent after adding</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Disable file logger</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Accept legal notice</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Don't confirm torrent deletion</code></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><code>Don't confirm exit</code></td>
   </tr>
