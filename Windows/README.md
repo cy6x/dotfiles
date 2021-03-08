@@ -1,4 +1,4 @@
-<h2>Neofetch</h2>
+<h2>System</h2>
 
 <table>
   <tr>
