@@ -21,11 +21,6 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Archiver</code></td>
-    <td><code>7-Zip</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
     <td><code>Torrents</code></td>
     <td><code><a href="#qbittorrent">qBittorrent</a></code></td>
   </tr>
