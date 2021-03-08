@@ -17,7 +17,7 @@
   <tr></tr>
   <tr>
     <td><code>Terminal</code></td>
-    <td><code>Windows Terminal</code></td>
+    <td><code><a href="#windows-terminal">Windows Terminal</a></code></td>
   </tr>
   <tr></tr>
   <tr>
