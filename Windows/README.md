@@ -103,12 +103,12 @@
   <tr></tr>
   <tr>
     <td><code>Font</code></td>
-    <td><code><a href="http://terminus-font.sourceforge.net">Terminus</a></code></td>
+    <td><code><a href="#terminus-font">Terminus</a></code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Colors</code></td>
-    <td><code><a href="https://github.com/ANK-dev/solarized-terminal-fixed">Solarized</a></code></td>
+    <td><code><a href="#solarized-colors">Solarized</a></code></td>
   </tr>
 </table>
 
