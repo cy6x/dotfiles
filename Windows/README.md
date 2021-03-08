@@ -12,7 +12,7 @@
   <tr></tr>
   <tr>
     <td><code>Browser</code></td>
-    <td><code><a href="https://github.com/cy6x/dots/tree/main/Windows#google-chrome">Google Chrome</a></code></td>
+    <td><code><a href="#google-chrome">Google Chrome</a></code></td>
   </tr>
   <tr></tr>
   <tr>
@@ -27,7 +27,7 @@
   <tr></tr>
   <tr>
     <td><code>Torrents</code></td>
-    <td><code><a href="https://github.com/cy6x/dots/tree/main/Windows#qbittorrent"</a>qBittorrent</code></td>
+    <td><code><a href="#qbittorrent">qBittorrent</a></code></td>
   </tr>
 </table>
 
