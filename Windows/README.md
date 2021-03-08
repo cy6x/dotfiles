@@ -27,7 +27,7 @@
   <tr></tr>
   <tr>
     <td><code>Torrents</code></td>
-    <td><code>qBittorrent</code></td>
+    <td><code><a href="https://github.com/cy6x/dots/tree/main/Windows#qbittorrent"</a>qBittorrent</code></td>
   </tr>
 </table>
 
