@@ -12,7 +12,7 @@
   <tr></tr>
   <tr>
     <td><code>Browser</code></td>
-    <td><code>Google Chrome</code></td>
+    <td><code><a href="https://github.com/cy6x/dots/tree/main/Windows#google-chrome">Google Chrome</a></code></td>
   </tr>
   <tr></tr>
   <tr>
