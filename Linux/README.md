@@ -7,7 +7,7 @@
   <tr></tr>
   <tr>
     <td><code>Distro</code></td>
-    <td><code>Void</code></td>
+    <td><code>Void Linux</code></td>
   </tr>
   <tr></tr>
   <tr>
