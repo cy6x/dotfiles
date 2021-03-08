@@ -103,12 +103,12 @@
   <tr></tr>
   <tr>
     <td><code>Font</code></td>
-    <td><code><a href="#terminus-font">Terminus</a></code></td>
+    <td><code>Terminus</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Colors</code></td>
-    <td><code><a href="#solarized-colors">Solarized</a></code></td>
+    <td><code>Solarized</code></td>
   </tr>
 </table>
 
