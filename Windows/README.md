@@ -94,8 +94,10 @@
   </tr>
   <tr></tr>
   <tr>
-    <td align="center" colspan="2"><code>#839496</code></td>
-    <td align="center" colspan="2"><code>#839496</code></td>
+    <td><code>Foreground</code></td>
+    <td><code>#839496</code></td>
+    <td><code>Selection</code></td>
+    <td><code>#839496</code></td>
   </tr>
   <tr></tr>
   <tr>
