@@ -7,7 +7,7 @@
   <tr></tr>
   <tr>
     <td><code>OS</code></td>
-    <td><code><a href="https://github.com/cy6x/yawt">Windows 10</a></code></td>
+    <td><code><a href="https://github.com/farag2/Windows-10-Sophia-Script">Windows 10</a></code></td>
   </tr>
   <tr></tr>
   <tr>
