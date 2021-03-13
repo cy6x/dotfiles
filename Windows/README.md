@@ -108,57 +108,49 @@
   <tr>
     <td><code>Black</code></td>
     <td><code>#073642</code></td>
-    <td><code>Bright Black</td>
-    <td><code>#586e75</td>
+    <td align="center" colspan="2"><code>#586e75</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Red</code></td>
     <td><code>#dc322f</code></td>
-    <td><code>Bright Red</td>
-    <td><code>#cb4b16</td>
+    <td align="center" colspan="2"><code>#cb4b16</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Green</code></td>
     <td><code>#859900</code></td>
-    <td><code>Bright Green</code></td>
-    <td><code>#586e75</code></td>
+    <td align="center" colspan="2"><code>#586e75</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Yellow</code></td>
     <td><code>#b58900</code></td>
-    <td><code>Bright Yellow</code></td>
-    <td><code>#657b83</code></td>
+    <td align="center" colspan="2"><code>#657b83</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Blue</code></td>
     <td><code>#268bd2</code></td>
-    <td><code>Bright Blue</code></td>
-    <td><code>#839496</code></td>
+    <td align="center" colspan="2"><code>#839496</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Purple</code></td>
     <td><code>#d33682</code></td>
-    <td><code>Bright Purple</code></td>
-    <td><code>#6c71c4</code></td>
+    <td align="center" colspan="2"><code>#6c71c4</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Cyan</code></td>
     <td><code>#2aa198</code></td>
-    <td><code>Bright Cyan</code></td>
-    <td><code>#93a1a1</code></td>
+    <td align="center" colspan="2"><code>#93a1a1</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>White</code></td>
     <td><code>#eee8d5</code></td>
-    <td><code>Bright White</code></td>
-    <td><code>#fdf6e3</code></td>
+    <td align="center" colspan="2"><code>#fdf6e3</code></td>
   </tr>
 </table>
 
