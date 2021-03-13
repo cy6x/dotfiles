@@ -26,7 +26,7 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Don't confirm deletion, exit</code></td>
+    <td><code>Don't confirm deletion and exit</code></td>
   </tr>
   <tr></tr>
   <tr>
