@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cy6x/dotfiles/29785e47bc1c68a51ffe0b24ae76f3bf2920958d/f.svg">
+<img src="./dots.svg">
 
 <h2>Installation</h2>
 
