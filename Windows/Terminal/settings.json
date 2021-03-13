@@ -1,8 +1,7 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "defaultProfile": "{23af5f91-5a2d-5b49-ae61-7064454abb5b}",
-    "initialPosition": "472, 206", //remove
-    //"centerOnLaunch": false,
+    "centerOnLaunch": true,
     "disabledProfileSources": ["Windows.Terminal.Azure"],
     "tabSwitcherMode": false,
     "largePasteWarning": false,
