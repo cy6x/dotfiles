@@ -40,6 +40,11 @@
   </tr>
   <tr></tr>
   <tr>
+    <td><code>AutoTube</code></td>
+    <td><code>Bypass the annoying 'you still there?' popup message and keep YouTube running nonstop</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
     <td><code>Antizapret</code></td>
     <td><code>Bypasses RKN</code></td>
   </tr>
