@@ -82,24 +82,27 @@
 
 <table>
   <tr>
-    <th>Color</th>
-    <th>Hex</th>
-    <th>Color</th>
-    <th>Hex</th>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Cursor</code></td>
-    <td><code>#f03c15</code></td>
-    <td><code>Selection</code></td>
-    <td><code>#839496</code></td>
+    <td align="center" colspan="2"><b>General</b></td>
+    <td align="center" colspan="2"><b>Special</b></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Background</code></td>
     <td><code>#002b36</code></td>
+    <td><code>Cursor</code></td>
+    <td><code>#f03c15</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
     <td><code>Foreground</code></td>
     <td><code>#839496</code></td>
+    <td><code>Selection</code></td>
+    <td><code>#839496</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td align="center" colspan="2"><b>Normal</b></td>
+    <td align="center" colspan="2"><b>Bright</b></td>
   </tr>
   <tr></tr>
   <tr>
