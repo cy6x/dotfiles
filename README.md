@@ -1,3 +1,5 @@
+<img src="./dots.svg">
+
 <h2>Installation</h2>
 
 <h3>Windows</h3>
