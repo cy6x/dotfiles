@@ -1,48 +1,3 @@
-
-<h2>qBittorrent</h2>
-
-<table>
-  <tr>
-    <td align="center" colspan="2"><b>Options</b></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Accept legal notice</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Delete .torrent after adding</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Disable alternating row colors</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Disable file logger</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Disable torrent queueing</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Don't confirm deletion, exit</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Don't show close to tray notification</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Hide sidebar & status bar</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Set disk cache to 64Mb</code></td>
-  </tr>
-</table>
-
 <h2>Windows Terminal</h2>
 
 <table>
@@ -228,5 +183,49 @@
   <tr>
     <td><code>Resize</code></td>
     <td><code>Alt+Shift+&lt;dir&gt;</code></td>
+  </tr>
+</table>
+
+<h2>qBittorrent</h2>
+
+<table>
+  <tr>
+    <td align="center" colspan="2"><b>Options</b></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Accept legal notice</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Delete .torrent after adding</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Disable alternating row colors</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Disable file logger</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Disable torrent queueing</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Don't confirm deletion, exit</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Don't show close to tray notification</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Hide sidebar & status bar</code></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><code>Set disk cache to 64Mb</code></td>
   </tr>
 </table>
