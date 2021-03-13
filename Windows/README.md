@@ -7,22 +7,22 @@
   <tr></tr>
   <tr>
     <td><code>OS</code></td>
-    <td><code><a href="https://github.com/farag2/Windows-10-Sophia-Script">Windows 10</a></code></td>
+    <td><code>Windows 10</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Browser</code></td>
-    <td><code><a href="#google-chrome">Google Chrome</a></code></td>
+    <td><code>Google Chrome</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Terminal</code></td>
-    <td><code><a href="#windows-terminal">Windows Terminal</a></code></td>
+    <td><code>Windows Terminal</code></td>
   </tr>
   <tr></tr>
   <tr>
     <td><code>Torrents</code></td>
-    <td><code><a href="#qbittorrent">qBittorrent</a></code></td>
+    <td><code>qBittorrent</code></td>
   </tr>
 </table>
 
