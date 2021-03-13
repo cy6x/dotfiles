@@ -1,21 +1,3 @@
-<h2>System</h2>
-
-<table>
-  <tr>
-    <td align="center" colspan="2"><b>Info</b></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Terminal</code></td>
-    <td><code>Windows Terminal</code></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><code>Torrents</code></td>
-    <td><code>qBittorrent</code></td>
-  </tr>
-</table>
-
 <h2>qBittorrent</h2>
 
 <table>
