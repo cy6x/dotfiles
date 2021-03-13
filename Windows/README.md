@@ -41,7 +41,7 @@
   <tr></tr>
   <tr>
     <td><code>AutoTube</code></td>
-    <td><code>Bypass the annoying 'you still there?' popup message and keep YouTube running nonstop</code></td>
+    <td><code>YouTube nonstop</code></td>
   </tr>
   <tr></tr>
   <tr>
