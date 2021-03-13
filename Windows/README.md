@@ -40,13 +40,13 @@
   </tr>
   <tr></tr>
   <tr>
-    <td><code>AutoTube</code></td>
-    <td><code>YouTube nonstop</code></td>
+    <td><code>Antizapret</code></td>
+    <td><code>Bypasses RKN</code></td>
   </tr>
   <tr></tr>
   <tr>
-    <td><code>Antizapret</code></td>
-    <td><code>Bypasses RKN</code></td>
+    <td><code>AutoTube</code></td>
+    <td><code>YouTube nonstop</code></td>
   </tr>
   <tr></tr>
   <tr>
